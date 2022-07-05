@@ -1,2 +1,2 @@
-# tearaway
-Learning 2
+# Mario.js
+Learning Mario.js
